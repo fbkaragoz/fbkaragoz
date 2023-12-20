@@ -1,29 +1,28 @@
-# Hello World👋. Call me ZK!
+# Hello World👋, I'm ZK - Bridging Philosophy and Technology!
 
-👨‍💻 Senior Philosophy Student at Boğaziçi University specializing in AGI, Robotics & IoT Security.
-🔐 Exploring the depths of Robotic Security.
-🤖 Leading the Code-Driven Learning Initiative (CDLI) to pioneer AGI via distributed systems.
-🌱 A devotee in Neurocomputation Research and Computer-Brain Interfaces.
-🎓 Holding accolades from Stanford, IBM, and DeepAI, proficient in Python, NLP, and more.
+👨‍💻 Boğaziçi University's Senior Philosophy Student at the forefront of AGI & Robotics Security.
+🔐 Venturing deep into Robotic Security landscapes.
+🤖 Architect of the Code-Driven Learning Initiative - charting new AGI horizons.
+🌱 Advocate for Neurocomputation & symbiotic Computer-Brain paradigms.
+🎓 Decorated by Stanford, IBM, and DeepAI, wielding Python, NLP, et al.
 
-## 🚀 Initiative Startup
-- **CDLI**: Merging AGI with transhumanist ideals. Stay tuned for the revelation.
+## 🚀 On the Launchpad
+- **CDLI**: Fusing AGI with transhumanism. Ready for the paradigm shift?
 
-## 📚 Projects, Papers, and Conferences
-- Featured speaker at TURING: [Watch my talk](https://youtu.be/Uji9Ntt8QOs?si=q34EbCgZcr8ORNWS)
-- Authored for ISBCS Symposium: [Read my article](https://www.researchgate.net/publication/369908109_On_the_Edge_of_Cognitive_Revolution_The_Impact_of_Neuro-Robotics_on_Mind_and_Singularity)
-- Innovating on the Ottoman LLM Project at Boğaziçi University
+## 📚 Thought Leadership
+- TURING Talk: [AI Ethics Discourse](https://youtu.be/Uji9Ntt8QOs?si=q34EbCgZcr8ORNWS)
+- ISBCS Paper: [Neuro-Robotics Impact](https://www.researchgate.net/publication/369908109_On_the_Edge_of_Cognitive_Revolution_The_Impact_of_Neuro-Robotics_on_Mind_and_Singularity)
+- Ottoman LLM Evolution: Pioneering at Boğaziçi University
 
-## 💻 Technologies
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Shell Script](https://img.shields.io/badge/-Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+## 💼 Professional Footprint
+![rekurrenzk's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rekurrenzk&theme=xcode)
+
+## 🎛️ Dynamic Toolbox
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+- ![Shell](https://img.shields.io/badge/-Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 <!-- Add more technologies as badges -->
 
-## 📈 Stats
-![ZK's GitHub stats]([https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical](https://github.com/rekurrenzk))
-
-## 📫 Reach Out
-- 🧳 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/rekurrenzk/)
-- ✉️ Email: [felixfelicies@protonmail.ch](mailto:felixfelicies@protonmail.ch)
-
+## 📫 Connect
+- 🌐 [LinkedIn](https://www.linkedin.com/in/rekurrenzk/)
+- 📧 [Email](mailto:felixfelicies@protonmail.ch)
