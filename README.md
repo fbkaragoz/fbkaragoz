@@ -15,13 +15,12 @@
 - Ottoman LLM Evolution: Pioneering at Boğaziçi University
 
 ## 💼 Professional Footprint
-![rekurrenzk's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rekurrenzk&theme=xcode)
+- ![rekurrenzk's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rekurrenzk&theme=xcode)
 
 ## 🎛️ Dynamic Toolbox
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 - ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 - ![Shell](https://img.shields.io/badge/-Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white)
-<!-- Add more technologies as badges -->
 
 ## 📫 Connect
 - 🌐 [LinkedIn](https://www.linkedin.com/in/rekurrenzk/)
