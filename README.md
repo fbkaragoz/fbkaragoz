@@ -15,23 +15,13 @@
 - Ottoman LLM Evolution: Pioneering at Boğaziçi University
 
 ## 📈 My GitHub Stats
-
 ![ZK's GitHub stats](https://github-readme-stats.vercel.app/api?username=rekurrenzk&show_icons=true&theme=radical)
 
 ## 🔝 Most Used Languages
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rekurrenzk&layout=compact&theme=radical)
 
 ## 🏆 GitHub Trophies
-
 ![Trophies](https://github-profile-trophy.vercel.app/?username=rekurrenzk&theme=onedark)
-
-
-## 🎛️ Dynamic Toolbox
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-- ![Shell](https://img.shields.io/badge/-Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white)
-<!-- Add more technologies as badges -->
 
 ## 📫 Connect
 - 🌐 [LinkedIn](https://www.linkedin.com/in/rekurrenzk/)
