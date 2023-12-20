@@ -21,7 +21,7 @@
 <!-- Add more technologies as badges -->
 
 ## 📈 Stats
-![ZK's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![ZK's GitHub stats]([https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical](https://github.com/rekurrenzk))
 
 ## 📫 Reach Out
 - 🧳 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/rekurrenzk/)
