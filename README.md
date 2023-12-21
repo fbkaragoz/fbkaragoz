@@ -1,4 +1,5 @@
-# Hello World👋, I'm ZK - Bridging Philosophy and Technology!
+# Hello World. I'm ZK 👋
+<img src="https://your-vercel-app.com/api/greeting?username=rekurrenzk" alt="Dynamic Greeting"/>
 
 👨‍💻 Boğaziçi University's Senior Philosophy Student at the forefront of AGI & Robotics Security.
 🔐 Venturing deep into IoT & Robotics security landscapes.
@@ -6,8 +7,11 @@
 🌱 Advocate for Neurocomputation & symbiotic Computer-Brain paradigms.
 🎓 Certifications by Stanford, IBM, and DeepAI, wielding Python, NLP, et al.
 
-## 🚀 On the Launchpad
-- **CDLI**: Fusing AGI with transhumanism. Ready for the paradigm shift?
+<details>
+<summary><b>🚀 CDLI: Fusing AGI with Transhumanism</b></summary>
+<p>Details about the project, your role, goals, and current status. Maybe even a small roadmap or upcoming features.</p>
+</details>
+
 
 ## 📚 Experiences
 - TURING Conference: [On Rhetorics](https://youtu.be/Uji9Ntt8QOs?si=q34EbCgZcr8ORNWS)
