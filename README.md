@@ -1,11 +1,5 @@
 # Hello World. I'm ZK 👋
 
-👨‍💻 Boğaziçi University's Senior Philosophy Student at the forefront of AGI & Robotics Security.
-🔐 Venturing deep into IoT & Robotics security landscapes.
-🤖 Architect of the Code-Driven Learning Initiative - charting new AGI horizons.
-🌱 Advocate for Neurocomputation & symbiotic Computer-Brain paradigms.
-🎓 Certifications by Stanford, IBM, and DeepAI, wielding Python, NLP, et al.
-
 ## On the Launchpad
 - **CDLI**: Fusing AGI with transhumanism. Ready for the paradigm shift?
 
