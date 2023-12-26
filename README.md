@@ -23,7 +23,6 @@ in(B),t=c*h*g-f*        e;int x=40+30*D*
        ~::==!!!**********!!!==::-
          .,~~;;;========;;;:~-.
              ..,--------,*/
->
-}
+>}
 ## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rekurrenzk&layout=compact&theme=radical)
