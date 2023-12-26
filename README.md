@@ -1,6 +1,6 @@
 # Hello World. I'm ZK 👋
 
-Check out my donut animation running live [[here]([https://this-is-not-donut.repl.co](https://this-is-not-donut.replit.app)](https://this-is-not-donut.replit.app)).
+![Donut GIF](donut.gif)
 
 
 ## Most Used Languages
