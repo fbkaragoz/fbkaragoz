@@ -1,20 +1,82 @@
 #include <stdio.h>
+#include <stdlib.h>
 
-int main()
-{
-    int x; // declaration
-    x = 3; // assignment
-    int y = 321; // declaration and initialization
+#define WIDTH 10
+#define HEIGHT 10
 
-    int age = 25;
-    float gpa = 2.05;
-    char grade = 'C'; // single quotes for single character
-    char name[] = "Bro"; // double quotes for string, array of characters
+char map[HEIGHT][WIDTH];
+int playerX = 1;
+int playerY = 1;
+int score = 0;
 
-    printf("Hello %s\n", name);
-    printf("You are %d age years old\n", age);
-    printf("you have a %f gpa of grade in class\n", gpa);
-    printf("you have a %c grade in class\n", grade);
+void initializeMap()
+    {
+    for (int y = 0; y < HEIGHT; y++)
+        {
+        for (int x = 0; x < WIDTH; x++)
+            {
+                if (x == 0 || x == WIDTH - 1) map[y][x] = '|';
+                else if (y == 0 || y == HEIGHT - 1) map[y][x] = '-';
+                else map[y][x] = ' ';
+            }
 
+        } 
+        map[playerY][playerX] = '0';
+        map[3][4] = '*';
+        map[5][8] = '*';
+        map[7][2] = '*';
+        map[9][6] = '*';
+
+    }
+
+void printMap() {
+    system("clear");
+    for (int y = 0; y < HEIGHT; y++) {
+        for (int x = 0; x < WIDTH; x++) {
+            printf("%c", map[y][x]);
+        }
+        printf("\n");
+    }
+    printf("Score: %d\n", score);
+
+}
+
+void movePlayer(int dx, int dy) {
+    int newX = playerX + dx;
+    int newY = playerY + dy;
+
+    if (map[newY][newX] == ' ' || map[newY][newX] == '*') {
+        if (map[newY][newX] == '*') {
+            score++;
+        }
+        map[playerY][playerX] = ' ';
+        playerY = newY;
+        playerX = newX;
+        map[playerY][playerX] = '0';
+    }
+}
+
+int main() {
+    initializeMap();
+    char input;
+    do {
+        printMap();
+        scanf(" %c", &input);
+        switch (input) {
+            case 'w':
+                movePlayer(0, -1);
+                break;
+            case 'a':
+                movePlayer(-1, 0);
+                break;
+            case 's':
+                movePlayer(0, 1);
+                break;
+            case 'd':
+                movePlayer(1, 0);
+                break;
+        }
+    } while (input != 'q');
+    return 0;
 
 }
