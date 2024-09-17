@@ -29,17 +29,6 @@ Zero Knowledge, Infinite Intelligence
 - [On the Edge of Cognitive Revolution: The Impact of Neuro-Robotics on Mind and Singularity](https://www.researchgate.net/publication/On_the_Edge_of_Cognitive_Revolution) - ISBCS
 - [Theory of Differentialism](https://doi.org/10.13140/RG.2.2.28148.97926)
 - Towards a Clean Text Corpus for Ottoman Turkish - ACL Bangkok - SIGTURK
-
-## Projects
-### Cross-Platform Personalized Chatbot Assistance
-- Developed using davinci-002 GPT API
-- Operates on Discord, collects cross-platform data
-- Experimenting with LLama3.1 8B for localization
-- [GitHub Repository](https://github.com/rekurrenzk/DiscordBot)
-
-### Ottominer NLP
-- [GitHub Repository](https://github.com/Ottoman-NLP)
-
 ## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rekurrenzk&show_icons=true&theme=radical" alt="ZK's GitHub Stats" />
