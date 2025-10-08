@@ -1,0 +1,35 @@
+name: Update 3D Contribution Graph
+
+on:
+  schedule:
+    - cron: "15 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate 3D contribution graph
+        uses: yoshi389111/github-profile-3d-contrib@v2
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: fbkaragoz
+
+      - name: Commit and push if changed
+        run: |
+          if git status --porcelain | grep profile-3d-contrib; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add profile-3d-contrib
+            git commit -m "Update 3D contribution graph"
+            git push
+          fi
