@@ -3,33 +3,34 @@
   <p>AI/ML & NLP researcher turning ideas into production systems.</p>
   <p>
     <a href="https://karagoz.io">karagoz.io</a> ·
-    <a href="https://betterquery.app">betterquery.app</a> ·
+    <a href="https://demo-mapfluencer.vercel.app">mapfluencer</a> ·
     <a href="https://orqel.com">orqel.com</a>
   </p>
 </div>
 
 ---
 
-**Currently building**
-- [BetterQuery](https://betterquery.app) — analytics co-pilot that pairs analysts with LLM agents
-- [Orqel](https://orqel.com) — adaptive automation for creative operations teams
+### Currently building
+- **Mapfluencer** — analytics automation for influencer–brand compatibility scoring
+- **ROTA** — adaptive AI systems for human-centered learning and guidance
 
-**Focus areas**
-- Retrieval-augmented generation pipelines for knowledge-dense corpora
-- Agentic systems that keep researchers, data, and product feedback in sync
-- MLOps patterns that make NLP models observable and reliable in production
+### Focus areas
+- Retrieval-augmented generation pipelines for knowledge-dense corpora  
+- Agentic systems that keep research, data, and product feedback aligned  
+- MLOps patterns that make NLP models observable and reliable in production  
 
-**Toolbox vibes**
-`Python` `PyTorch` `Transformers` `LangChain` `Weights & Biases` `DuckDB` `Prefect`
+### Toolbox
+`Python` `PyTorch` `Transformers` `LangChain` `Weights & Biases` `PostgreSQL` `pgvector` `WebGL`
 
-**What's next**
-- Scalable knowledge graphs that mix private and public data streams
-- Evaluating “human + model” collaboration patterns in analytics teams
+### What I care about next
+- Knowledge graphs that combine private and public data streams  
+- Practical human-and-model collaboration patterns in analytics teams  
 
 ---
 
-**GitHub 3D contributions**
-
-The graph below updates automatically every night. It’s rendered with [github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib).
+### GitHub activity
+Most of the activity below is infrastructure work, evaluation tooling, and pipeline refactors.  
+The graph updates automatically using  
+[github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib).
 
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
