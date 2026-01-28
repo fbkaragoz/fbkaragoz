@@ -3,24 +3,18 @@
   <p>AI/ML & NLP researcher turning ideas into production systems.</p>
   <p>
     <a href="https://karagoz.io">karagoz.io</a> ·
-    <a href="https://demo-mapfluencer.vercel.app">mapfluencer</a> ·
-    <a href="https://orqel.com">orqel.com</a>
+    <a href="https://rota.education">ROTA:::ATLAS</a> ·
+    <a href="https://cdli.ai">CDLI.ai</a>
   </p>
 </div>
 
 ---
 
 ### Currently building
-- **Mapfluencer** — analytics automation for influencer–brand compatibility scoring
 - **ROTA** — adaptive AI systems for human-centered learning and guidance
 
 ### Focus areas
-- Retrieval-augmented generation pipelines for knowledge-dense corpora  
-- Agentic systems that keep research, data, and product feedback aligned  
-- MLOps patterns that make NLP models observable and reliable in production  
-
-### Toolbox
-`Python` `PyTorch` `Transformers` `LangChain` `Weights & Biases` `PostgreSQL` `pgvector` `WebGL`
+- Agentic Automation Systems
 
 ### What I care about next
 - Knowledge graphs that combine private and public data streams  
