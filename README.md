@@ -13,13 +13,6 @@
 ### Currently building
 - **ROTA** — adaptive AI systems for human-centered learning and guidance
 
-### Focus areas
-- Agentic Automation Systems
-
-### What I care about next
-- Knowledge graphs that combine private and public data streams  
-- Practical human-and-model collaboration patterns in analytics teams  
-
 ---
 
 ### GitHub activity
